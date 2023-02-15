@@ -1,7 +1,6 @@
 # 精选优质博客
 
-本文档旨在搜罗高质量的博客。
-欢迎自荐、推荐优质博客，请直接**提交issue**！
+本文档旨在搜罗高质量的博客。欢迎自荐、推荐优质博客，请直接 **提交issue**！
 
 同时请测试反馈博客链接的有效性及更新状态，链接失效或长期不更新会被清理出去。
 
@@ -15,49 +14,45 @@
 - 广告推广满屏飞体验差的，不予收录
 
 ## 格式
-每条记录除包括名称、作者、链接、居住地等基本信息外，还包括以下几项：
-- 标签：标识博文大致内容
+每条记录除包括名称、作者、链接、居住地、标签等基本信息外，还包括以下几项：
 - 代表博文：代表博客整体风格有代表性的博文
 - 内容简介：博客的详细介绍，包括作者、内容、推荐语等其他一切。此部分是本文档的特色，也是花心思最多的，毕竟，每一个优秀的、用心维护的博客和作者都值得认真对待。
 ---
 
-# 英文
-## https://rohit.blog/
+## 英文
+### 1. [Rohit Kumar](https://rohit.blog/)
 <table>
     <thead>
         <tr>
             <th>名称</th>
-            <th>作者</th>
             <th>链接</th>
+            <th>作者</th>
             <th>居住地</th>
+            <th>标签</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td >Rohit Kumar</td>
-            <td >Rohit Kumar</td>
             <td > https://rohit.blog/ </td>
+            <td >Rohit Kumar</td>
             <td>New Delhi, India</td>
-        </tr>
-        <tr>
-            <th>标签</th>
-            <td colspan=3>创业、生活、写作</td>
+            <td>生活、写作</td>
         </tr>
         <tr>
             <th>代表博文</th>
-            <td colspan=3>https://rohit.blog/care/</td>
+            <td colspan=4>[No one cares](https://rohit.blog/care/)</td>
         </tr>
         <tr>
             <th>内容简介</th>
-            <td colspan=3></td>
+            <td colspan=4></td>
         </tr>
     </tbody>
 </table>
 
-# 中文
+## 中文
 - [阮一峰的个人网站](https://ruanyifeng.com/) 会不定期发布一些技术相关文章，同时有科技爱好者周刊，颇受欢迎。
 
 
 
 ---
-
