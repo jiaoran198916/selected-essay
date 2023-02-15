@@ -37,7 +37,7 @@
             <td > https://rohit.blog/ </td>
             <td >Rohit Kumar</td>
             <td>New Delhi, India</td>
-            <td>生活、写作</td>
+            <td>生活、写作、创意</td>
         </tr>
         <tr>
             <th>代表博文</th>
@@ -45,7 +45,7 @@
         </tr>
         <tr>
             <th>内容简介</th>
-            <td colspan=4></td>
+            <td colspan=4>作者是个26岁居住在新德里的印度写作者，曾为公司撰写些新闻或其他商业文件，目标是成为一个独立的创意写作者。英文很浅显，读起来很轻松，能看出明显的非英语母语者痕迹。</td>
         </tr>
     </tbody>
 </table>
