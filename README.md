@@ -50,6 +50,37 @@
     </tbody>
 </table>
 
+### 2. [★❤✰ Vicki Boykis ★❤✰](https://vickiboykis.com/)
+<table>
+    <thead>
+        <tr>
+            <th>名称</th>
+            <th>链接</th>
+            <th>作者</th>
+            <th>居住地</th>
+            <th>标签</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td >★❤✰ Vicki Boykis ★❤✰</td>
+            <td > https://vickiboykis.com/ </td>
+            <td >Vicki Boykis</td>
+            <td>Philly（费城）, America</td>
+            <td>机器学习、科技、生活、社会</td>
+        </tr>
+        <tr>
+            <th>代表博文</th>
+            <td colspan=4>[The cloudy layers of modern-day programming
+](https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/)</td>
+        </tr>
+        <tr>
+            <th>内容简介</th>
+            <td colspan=4>作者是个机器学习工程师，工作之余，喜欢在推特上发些用iPad Pencil涂鸦的科技logo。</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 中文
 - [阮一峰的个人网站](https://ruanyifeng.com/) 会不定期发布一些技术相关文章，同时有科技爱好者周刊，颇受欢迎。
 
