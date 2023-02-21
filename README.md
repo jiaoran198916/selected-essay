@@ -81,6 +81,37 @@
     </tbody>
 </table>
 
+### 3. [Arun.is](https://arun.is/)
+<table>
+    <thead>
+        <tr>
+            <th>名称</th>
+            <th>链接</th>
+            <th>作者</th>
+            <th>居住地</th>
+            <th>标签</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td >Arun.is</td>
+            <td > https://arun.is/ </td>
+            <td >Arun</td>
+            <td>America</td>
+            <td>产品设计、科技趋势、生活、旅行</td>
+        </tr>
+        <tr>
+            <th>代表博文</th>
+            <td colspan=4>[The Art of the Desk Setup]
+            https://arun.is/blog/desk-setup/</td>
+        </tr>
+        <tr>
+            <th>内容简介</th>
+            <td colspan=4>作者是个产品设计师，摄影师，创业公司联合创始人，哥伦比亚大学校友。博客文章话题包括：行业设计、设计历史、科技趋势、图文游记等。特色是每篇文章都配以大量精选图片，设计简约，能明显看出做设计者的痕迹。</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 中文
 - [阮一峰的个人网站](https://ruanyifeng.com/) 会不定期发布一些技术相关文章，同时有科技爱好者周刊，颇受欢迎。
 
