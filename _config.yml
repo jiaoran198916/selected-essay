@@ -4,17 +4,17 @@
 
 # Site
 title: 李建军文学批评
-subtitle: '李建军'
-description: ''
-keywords:
+subtitle: '李氏文章，一网打尽'
+description: '收录著名文学批评家李建军所有文章'
+keywords: '文学批评，文艺研究，当代文学'
 author: 李建军
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
