@@ -103,3 +103,21 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: false
+  total_time: false
+  exclude_codeblock: false
+  wpm: 275
+  suffix: "mins."
+
+markdown:
+  indent: 2
+
+search:
+  path: search.xml
+  field: post
+  content: false
+  format: html
