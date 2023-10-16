@@ -1,11 +1,10 @@
 ---
 title: {{ title }}
 date: {{ date }}
-auto_indent: false
-categories: 论文
-tags: []
+auto_indent: true
+categories: 王彬彬
 excerpt:
 ---
 {% note success %}
-小说伦理与中国经验——2005年第一季度《小说选刊》阅读印象
+王彬彬：高晓声与高晓声研究
 {% endnote %}
