@@ -1,10 +1,11 @@
 ---
 title: {{ title }}
 date: {{ date }}
+tags: []
+categories: 论文
 auto_indent: true
-categories: 王彬彬
 excerpt:
 ---
 {% note success %}
-王彬彬：高晓声与高晓声研究
+求真高于行善吗？——论王小波对菲尔丁的误读
 {% endnote %}
