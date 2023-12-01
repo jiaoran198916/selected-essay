@@ -7,5 +7,5 @@ auto_indent: true
 excerpt:
 ---
 {% note success %}
-求真高于行善吗？——论王小波对菲尔丁的误读
+完整的世界在这里反映出来——论赵瑜的《寻找黛莉》
 {% endnote %}
