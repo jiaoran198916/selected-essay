@@ -14,7 +14,7 @@
   "dependencies": {
     "hexo": "^6.3.0",
     "hexo-deployer-git": "^4.0.0",
-    "hexo-filter-markdown-auto-indent": "^1.2.2",
+    "hexo-filter-markdown-auto-indent": "^1.3.0",
     "hexo-filter-text-autospace": "^1.2.4",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
