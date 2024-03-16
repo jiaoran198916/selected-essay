@@ -102,7 +102,11 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/jiaoran198916/jiaoran198916.github.io/ # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: master
+  message: default msg
+
 
 symbols_count_time:
   symbols: true
