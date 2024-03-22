@@ -24,3 +24,32 @@
 
 
 再次感谢您的慷慨解囊！
+
+
+http://pickupimage.com/
+https://stockphotos.io/
+https://unsplash.com/
+http://www.gratisography.com/
+http://www.rgbstock.com/
+http://www.stockvault.net/
+http://www.vcg.com/  视觉中国
+http://magdeleine.co/browse/
+别样网
+http://imcreator.com/free
+http://raumrot.com/
+http://thestocks.im/
+https://foodiesfeed.com/
+https://pixabay.com/
+http://cupcake.nilssonlee.se/
+http://www.lifeofpix.com/
+https://picjumbo.com/
+http://wefunction.com/
+http://www.resplashed.com/
+http://libreshot.com/
+http://creativevix.com/
+http://www.largephotos.net/
+http://highresolution.photography/
+https://www.pond5.com/free
+https://www.pexels.com
+http://pngimg.com/
+http://www.pickfree.cn/#
