@@ -1,5 +1,4 @@
 
-
 origin_title:
 another_title:
 
@@ -15,7 +14,7 @@ another_title:
 ## 摘要
 {% endnote %}
 
-{% note default %}
+{% note info %}
 
 {% endnote %}
 
