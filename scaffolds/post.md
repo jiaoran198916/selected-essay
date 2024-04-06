@@ -7,5 +7,5 @@ auto_indent: true
 excerpt:
 ---
 {% note info %}
-《巴尔扎克传》第五章：经商插曲
+《巴尔扎克传》第九章：德·卡斯特里公爵夫人
 {% endnote %}
