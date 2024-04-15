@@ -1,8 +1,8 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags: [传记, 茨威格, 张玉书]
-categories: 巴尔扎克传
+tags: []
+categories: 论文
 auto_indent: true
 excerpt:
 ---
