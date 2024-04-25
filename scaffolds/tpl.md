@@ -9,7 +9,7 @@ another_title:
 ｜
 {% endnote %}
 ⋯⋯
-［］
+［］．
 {% note success %}
 ## 摘要
 {% endnote %}
