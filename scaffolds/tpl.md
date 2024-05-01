@@ -9,7 +9,7 @@ another_title:
 ｜
 {% endnote %}
 ⋯⋯
-［］．
+［］． 「小说文本」
 {% note success %}
 ## 摘要
 {% endnote %}
@@ -21,9 +21,3 @@ another_title:
 {% note primary %}
 
 {% endnote %}
-
-
-
-<span class="post-meta-item-icon">
-  <i class="{{ theme.busuanzi_count.total_views_icon }}"></i>
-</span>
