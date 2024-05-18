@@ -9,7 +9,7 @@ another_title:
 ｜
 {% endnote %}
 ⋯⋯
-［］． 「小说文本」
+［］． 「小说文本」  「文章」
 {% note success %}
 ## 摘要
 {% endnote %}
