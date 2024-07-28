@@ -9,7 +9,7 @@ another_title:
 ｜
 {% endnote %}
 ⋯⋯
-［］． 「小说文本」  「书籍推荐」  
+［］． 「小说文本」  「书籍推荐」《把猫头鹰和夜莺分开》
 {% note success %}
 ## 摘要
 {% endnote %}
@@ -24,7 +24,6 @@ another_title:
 #小程序://皎然的园地/s4Z8GV3oZJpK2uI  钻一钻牛角尖
 #小程序://皎然的园地/HeUs2NCmONlGc1C  有事生非
 #小程序://皎然的园地/Sv4hGijbYxo8pGD  小说修辞研究修订版
-
 
 {% note info %}
 
