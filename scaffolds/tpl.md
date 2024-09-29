@@ -11,7 +11,7 @@ another_title:
 ⋯⋯    ‘’
 ［］． 「书封欣赏」  「书籍推荐」《把猫头鹰和夜莺分开》
 
-「纯批句读026」只有自己主观能动地建立起来的对象才是真正客观的认识对象   73—76
+「纯批句读032」知性概念要达到物的知识必须有相应的直观   95—98
 
 {% note success %}
 ## 摘要
@@ -20,7 +20,6 @@ another_title:
 /pages/jump/jump?colType=3&cusColId=300
 
 #小程序://皎然的园地/Vc45t8qQ8b3F7yh 不成样子的扯淡
-#小程序://皎然的园地/fjgauBCCIxIbvQf  把猫头鹰与夜莺分开
 #小程序://皎然的园地/J95xTDYNZFOYgro   文学的整数
 #小程序://皎然的园地/ga3neZbECQaw43v   当代文坛病象批判
 #小程序://皎然的园地/qyiqbnLLEIDQgtx  新批判主义
@@ -30,7 +29,6 @@ another_title:
 #小程序://皎然的园地/hONhHEE6gH6xWQd   容易被搅混的是我们的内心
 #小程序://皎然的园地/UazXV9xJKyIHmys   批评之剑
 #小程序://皎然的园地/lWPSTglpPAP61da   不信之书
-
 
 {% note info %}
 
