@@ -11,7 +11,7 @@ another_title:
 ⋯⋯    ‘’
 ［］． 「书封欣赏」  「书籍推荐」《把猫头鹰和夜莺分开》
 
-「纯批句读032」知性概念要达到物的知识必须有相应的直观   95—98
+「纯批句读036」因为思辨理性为了达到这些洞见就必须使用这样一些原理   109—112
 
 {% note success %}
 ## 摘要
@@ -19,6 +19,7 @@ another_title:
 
 /pages/jump/jump?colType=3&cusColId=300
 
+#小程序://皎然的园地/a8GJu1C0JmtFduv 羊舍一夕
 #小程序://皎然的园地/Vc45t8qQ8b3F7yh 不成样子的扯淡
 #小程序://皎然的园地/J95xTDYNZFOYgro   文学的整数
 #小程序://皎然的园地/ga3neZbECQaw43v   当代文坛病象批判
