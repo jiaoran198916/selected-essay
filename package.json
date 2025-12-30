@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "hexo": "^7.1.1",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-filter-markdown-auto-indent": "^1.2.2",
     "hexo-filter-text-autospace": "^1.2.5",
     "hexo-generator-archive": "^2.0.0",
@@ -20,6 +21,7 @@
     "hexo-generator-index": "^3.0.0",
     "hexo-generator-searchdb": "^1.4.1",
     "hexo-generator-tag": "^2.0.0",
+    "hexo-i18n": "^2.0.0",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-marked": "^6.2.0",
     "hexo-renderer-stylus": "^3.0.0",
