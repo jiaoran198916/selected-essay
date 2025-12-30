@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 当代文学批评
-subtitle: '精选优秀批评文章'
-description: '收集一些观点鲜明、言之有物的批评文章'
-keywords: '文学批评，文艺研究，当代文学'
+title: 清昼书山
+subtitle: 精选优秀文史哲图书
+description: 展示个人珍藏的文史哲电子书
+keywords: 文史哲，电子书
 author: 清昼bot
 language: zh-CN
 timezone: ''
@@ -44,7 +44,7 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
