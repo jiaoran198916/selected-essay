@@ -3,7 +3,7 @@ title: {{ title }}
 date: {{ date }}
 tags: []
 categories: 论文
-auto_indent: true
+auto_indent: false
 excerpt:
 ---
 {% note info %}
