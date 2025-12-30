@@ -1,0 +1,54 @@
+{%- if page.name %}
+<div align=center>
+<table class="outer-tbl">
+    <tr>
+        <th width="50%"> </th>
+        <th style="font-size:30px">{{- page.name }}</th>
+    </tr>
+    <tr>
+        <td>
+        <img src="/images/{{- page.cover }}" style="margin-bottom: 0"/>
+        </td>
+        <td style="position: relative;">
+        <table class="inner-tbl">
+    {%- if page.author %}
+    <tr>
+        <td>作者</td>
+        <td>{{- page.cover }}</td>
+    </tr>
+    {%- endif %}
+    {%- if page.publish %}
+    <tr>
+        <td>出版社</td>
+        <td>{{- page.publish }}</td>
+    </tr>
+    {%- endif %}
+    {%- if page.year %}
+    <tr>
+        <td>出版时间</td>
+        <td>{{- page.year }}年</td>
+    </tr>
+    {%- endif %}
+    {%- if page.pdf %}
+    <tr>
+        <td>格式</td>
+        <td>{{- page.pdf }}</td>
+    </tr>
+    {%- endif %}
+    {%- if page.vertical %}
+    <tr>
+        <td>样式</td>
+        <td>{{- page.vertical }}</td>
+    </tr>
+    {%- endif %}
+    {%- if page.simplified %}
+    <tr>
+        <td>语言</td>
+        <td>{{- page.simplified }}</td>
+    </tr>
+    {%- endif %}
+</table>
+
+</table>
+</div>
+{%- endif %}

@@ -6,6 +6,28 @@
 
 美国反对美国
 
+流亡者文丛7册，林贤治主编
+
+林贤治主编《流亡者丛书》，1999年贵州人民出版社，点图查阅详情
+
+包括小说卷、散文卷、流亡者档案卷各二卷，诗歌卷一卷，共七卷。
+
+[流亡者文丛·小说卷A]午夜的孩子-刘文飞、李政文编选，林贤治主编-贵州人民出版社-1999.pdf
+[流亡者文丛·小说卷B]一只黑手套-刘文飞、李政文编选，林贤治主编-贵州人民出版社-1999.pdf
+[流亡者文丛·散文卷A]钟的秘密心脏-筱敏编选，林贤治主编-贵州人民出版社-1999.pdf
+[流亡者文丛·散文卷B]我们的时代-筱敏编选，林贤治主编-贵州人民出版社-1999.pdf
+[流亡者文丛·流亡者档案卷A]被驱逐的人-林贤治编选，林贤治主编-贵州人民出版社-1999.pdf
+[流亡者文丛·流亡者档案卷B]我的信仰-林贤治编选，林贤治主编-贵州人民出版社-1999.pdf
+[流亡者文丛·诗歌卷]子夜的哀歌-王家新、汪剑钊编选，林贤治主编-贵州人民出版社-1999.pdf
+
+
+[流亡者文丛·小说卷]
+
+为了众人的福祉与独立的信仰，这些流亡者，宁愿担受亡命的厄运，也决不肯做顺民，更不用说颂扬暴政了；在辗转流徙之中，始终保持着心的反抗，倘使没有几分英雄主义是不容易做到的。
+
+流亡者写的书，是与“为艺术而艺术”完全绝缘的。作者因流亡而获得一种特殊的生存状态，这种状态，赋予作品以苦难和英雄的双重气质；以致无意讲究形式而具备了自己的形式，无意追求风格而完成了自己的风格。
+——林贤治
+
 现代世界的诞生
 
 [汉译世界学术名著丛书·纪念版]封建社会（上）：依附关系的成长-[法]马克·布洛赫著，张绪山译-商务印书馆-2017
@@ -111,14 +133,14 @@
   <tbody> <!-- 表体内容 --> </tbody> <!-- 这里填充你的数据 -->
 </table>
 <script>
-window.addEventListener('scroll', function() {
-  var table = document.getElementById('myTable'); // 获取表格元素
-  var header = table.querySelector('thead'); // 获取表头元素
+window.addEventListener(scroll, function() {
+  var table = document.getElementById(myTable); // 获取表格元素
+  var header = table.querySelector(thead); // 获取表头元素
   var scrollTop = window.pageYOffset || document.documentElement.scrollTop; // 获取滚动位置
   if (scrollTop > 0) { // 如果开始滚动，则添加类以固定表头位置
-    header.classList.add('fixed-header'); // 添加类以应用CSS样式来固定表头位置
+    header.classList.add(fixed-header); // 添加类以应用CSS样式来固定表头位置
   } else { // 如果停止滚动，则移除类以恢复默认状态（可选）
-    header.classList.remove('fixed-header'); // 移除类以应用CSS样式来固定表头位置（可选）
+    header.classList.remove(fixed-header); // 移除类以应用CSS样式来固定表头位置（可选）
   }
 });
 </script>

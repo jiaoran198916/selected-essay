@@ -1,0 +1,30 @@
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 0px solid black;
+    padding: 0px;
+    text-align: left;
+    background: none; 
+  }
+  .inner-tbl {
+    position: top; /* 使用fixed定位 */
+    top: 0; /* 在顶部固定 */
+    /*width: calc(100% - 2px);  根据需要调整宽度 */
+    background-color: none; /*设置背景色 */
+    z-index: 1000; /* 确保在内容之上 */
+    position: absolute; /* 绝对定位 */
+  /*left: 50%;            向左移动50% */
+  /*transform: translate(-50%, -50%); /* 向上和向左各移动自身尺寸的50% */
+  }
+
+  .inner-tbl td {
+    /* border: 1px solid black; */
+    padding: 8px;
+    text-align: left;
+  }
+
+.posts-expand .post-block:not(:first-of-type) {
+  margin-top: 10px;
+}
