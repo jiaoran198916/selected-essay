@@ -2,15 +2,15 @@
 title: {{ title }}
 date: {{ date }}
 tags: []
-categories: 论文
+categories: 港产好书
 name: 书名
-author: 作者
-cover: 封面链接
+writer: 作者
+cover: 封面链接.jpg
 publish: 出版社
 pdf: pdf
 year: 2015
 vertical: 横排
-simplified: 简体
+simplified: 繁体
 auto_indent: false
 excerpt: 
 ---
